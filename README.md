@@ -17,6 +17,7 @@ therefore, all the nouns in this game are the only part that changes at this tim
 
 The game will choose a new Noun to translate as you progress through checkpoints, and from that point on the word will remain in the other language.
 
-TODO: //maybe, in the future, if at all?
+# TODO: //maybe, in the future, if at all?
+
 Add an in game dictionary with all of the words that were translated thus far.
 evolve it to an actual game.
